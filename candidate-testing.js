@@ -55,6 +55,7 @@ else{
 
 console.log(`>>> Overall Grade: ${grade}% (${count} of 5 responses correct) <<<`);
 
+return grade;
 
 }
 
